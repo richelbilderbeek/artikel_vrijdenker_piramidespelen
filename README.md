@@ -77,7 +77,8 @@ van deze oplichterij:
 ## Hoe herken je een Ponzischema?
 
 Een Ponzischema is te herkennen aan een combinatie van eigenschappen.
-Het is altijd een combinatie van meerdere factoren 
+Het is altijd een combinatie van meerdere 
+factoren; een eigenschap is niet genoeg om een bedrijf een Ponzischema te noemen
 (lijst van [Bosley & McKeage, 2015]):
 
  * Bedrijf X belooft een uitzonderlijk hoge winst in een te korte periode
@@ -141,9 +142,11 @@ Het is altijd een combinatie van meerdere factoren
 
 ![](geldstromen_simulatie_2x.png)
 
-> Simulatie van geldstromen binnen een piramidespel van een slachtoffer.
+> Simulatie van geldstromen binnen een piramidespel van een slachtoffer,
+> met de tijd (in dagen) op de horizontale as en (beloofde) bedragen
+> op de vertical as.
 > De zwarte lijn geeft het effect op de bankrekening van een slachtoffer,
-> in dit geval 100 euro verlies, ten gevolge van de inleg van 100 euro.
+> in dit geval 100 euro schuld, ten gevolge van de inleg van 100 euro.
 > De rode, groene en blauwe lijnen geven de *beloofde* waarde aan
 > van de drie typen portefeuilles.
 > Merk vooral de blauwe lijn op: deze wekt de suggestie
