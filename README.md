@@ -9,9 +9,6 @@ Term        |Definitie
 Ponzi schema|Een financiele afspraak tussen 2 personen met beloften die niet waargemaakt kunnen worden 
 Piramidespel|Uitbreiding van een Ponzi schema, met beloning voor het verwerven van mede-slachtoffers
 
-## Samenvatting
-
-
 ## Aanleiding
 
 'Grijp je kans nu!', 'Wordt rijk in een maand!': 
@@ -142,6 +139,18 @@ Het is altijd een combinatie van meerdere factoren
  * Eerdere rechtzaken tegen bedrijf X
  * Een snelle neergang in het aantal slachtoffers
 
+![](geldstromen_simulatie_2x.png)
+
+> Simulatie van geldstromen binnen een piramidespel van een slachtoffer.
+> De zwarte lijn geeft het effect op de bankrekening van een slachtoffer,
+> in dit geval 100 euro verlies, ten gevolge van de inleg van 100 euro.
+> De rode, groene en blauwe lijnen geven de *beloofde* waarde aan
+> van de drie typen portefeuilles.
+> Merk vooral de blauwe lijn op: deze wekt de suggestie
+> dat het slachtoffer winst heeft gemaakt.
+> In deze simulatie heeft het slachtoffer geen geld opgenomen.
+> De simulatie is gebaseerd op een -nu failliet- piramidespel.
+
 ## Waarom zitten mensen in een piramidespel?
 
 Meedoen aan een piramidespel is om meerdere redenen aantrekkelijk:
@@ -209,7 +218,6 @@ inclusief wat simpele handvatten om slachtoffers te helpen.
    de zin van 'een bedrijf met een bepaalde naam'. 
    Fout is te denken dat dit gaat over 
    het bedrijf met de naam 'X', dat voormalig de naam 'Twitter' droeg
-   
 
 ## Referenties
 
