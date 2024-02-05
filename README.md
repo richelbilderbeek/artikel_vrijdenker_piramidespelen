@@ -154,6 +154,23 @@ Het is altijd een combinatie van meerdere factoren
 > In deze simulatie heeft het slachtoffer geen geld opgenomen.
 > De simulatie is gebaseerd op een -nu failliet- piramidespel.
 
+## Waarom gaan mensen bij een piramidespel?
+
+De belangrijkste reden dat mensen bij een piramidespel gaan, 
+is wegens 'representativeness bias' [Hidajat et al., 2020][Wilkins et al, 2012].
+Voor dit vooroordeel is een bekende nodig,
+wiens lidmaatschap als (onjuist) bewijs dient het pyramidespel legitiem is.
+
+Bovenstaand vooroordeel is belangrijkste voorspellen 
+voor het inleggen van geld in een pyramidespelen.
+Volgens een studie verklaart 'representativeness bias' 47% van de variatie.
+De rest is the verklaren uit
+'confirmation bias' (dwz vooral naar bewijs luisteren die de eigen opvatting bevestigd) (22%), 
+zelfoverschatting (15%), 
+'framing bias' (dwz een beslissing nemen op basis van enkel positieve informatie) 
+(11%) en optimisme (9%) (merk op: deze getallen samen
+komen boven de 100% uit, onduidelijk is waarom) [Hidajat et al., 2020].
+
 ## Waarom zitten mensen in een piramidespel?
 
 Meedoen aan een piramidespel is om meerdere redenen aantrekkelijk:
@@ -165,8 +182,23 @@ Meedoen aan een piramidespel is om meerdere redenen aantrekkelijk:
 De belofte van financieel gewin is aantrekkelijk
 en tot op zekere hoogte waar:
 uit onderzoek blijkt dat -als je de vrijwillig gewerkte uren niet meeneemt-
-dat 1% quitte speelt en dat 0.1% winst maakt [1].
-Een op de duizend slachtoffers maakt dus winst!
+dat ongeveer 2% quitte speelt 
+en dat ongeveer 4% winst maakt [Bosley & McKeage, 2015].
+Zie onderstaande figuur 
+voor de verdeling van inkomsten over percentage slachtoffers.
+
+![](bosley_and_mckeage_2015_fig_1.png)
+
+> Figuur uit [Bosley & McKeage, 2015] die de inkosten (in USD)
+> laat zien per percentage slachtoffers. Merk op dat de inleg voor
+> dit pyramidel 300 USD was en dat geinvesteerde tijd niet is meegenomen
+> in de berekening.
+
+Het percentage van slachtoffers dat winst maakt varieert
+per pyramidespel: een andere studie vond dat 11,8% 
+van de slachtoffers winst maakt.
+Deze winst is meestal laag: 50% van deze winst kwam 
+in de handen kwam van de top 0,1% [Tyler et al., 2023],
 
 De sociale gemeenschap achter een piramidespel is voor sommige interessant:
 hard werken wordt beloont, men begeleid elkaar, men motiveert elkaar,
@@ -226,5 +258,19 @@ inclusief wat simpele handvatten om slachtoffers te helpen.
 
  * [Bosley & McKeage, 2015] Bosley, Stacie, and Kim K. McKeage. "Multilevel Marketing Diffusion and the Risk of Pyramid Scheme Activity: The Case of Fortune Hi-Tech Marketing in Montana." American Marketing Association, 2015.
  * [1] Onderzoek van winsten in piramidespel in Amerika
- * [2] Onderzoek van rode vlaggen in een pyramidespel
  * [3] Onderzoek met initele investering is 2000 euro
+ * [Tyler et al., 2023] Kell, Tyler, et al. "Forsage: Anatomy of a smart-contract pyramid scheme." International Conference on Financial Cryptography and Data Security. Cham: Springer Nature Switzerland, 2023.
+ * [Hidajat et al., 2020] Hidajat, Taofik, et al. "Why are people trapped in Ponzi and pyramid schemes?." Journal of Financial Crime 28.1 (2020): 187-203.
+
+ * [Bosley & McKeage, 2015] Bosley, Stacie, and Kim K. McKeage. "Multilevel marketing diffusion and the risk of pyramid scheme activity: The case of fortune hi-tech marketing in Montana." Journal of Public Policy & Marketing 34.1 (2015): 84-102.
+ * [Wilkins et al, 2012] Wilkins, Anne M., William W. Acuff, and Dana R. Hermanson. "Understanding a ponzi scheme: Victims’ perspectives." Journal of Forensic & Investigative Accounting 4.1 (2012): 1-19.
+
+
+A total of 98% (0.983) of variations in investment in Ponzi and pyramid schemes are
+influenced by optimism, confirmation bias, representativeness bias, herding,
+framing bias and overconfidence, while other variables influence the rest [Hidajat et al., 2020].
+
+Confirmation bias, representativeness bias, framing bias and overconfidence (cognitive
+bias) also proved to influence investment decisions in Ponzi and pyramid schemes [Hidajat et al., 2020].
+
+
