@@ -1,6 +1,7 @@
 # artikel_vrijdenker_piramidespelen
 
-Artikel voor 'De Vrijdenker': De fascinerende wereld van piramidespelen
+Artikel voor 'De Vrijdenker': De fascinerende wereld van piramidespelen,
+verstuurd op 2024-06-24 naar de redactie.
 
 ## Mini samenvatting
 
