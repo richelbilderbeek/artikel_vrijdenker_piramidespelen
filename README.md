@@ -44,7 +44,8 @@ is bedrijf X failliet en de slachtoffers zullen
 hun geld waarschijnlijk niet terug krijgen.
 
 Het verhaal van de zwendelaar van een Ponzi schema
-begint met een investering van ongeveer 2,000 euro [3].
+begint met een voldoende hoeveelheid geld om de eerste
+uitbetalingen te kunnen doen.
 Na een advertentie komt het eerste geld binnen
 en een jaar later worden de eerste 
 uitbetalingen gedaan, van veelal kleine bedragen.
@@ -257,20 +258,6 @@ inclusief wat simpele handvatten om slachtoffers te helpen.
 ## Referenties
 
  * [Bosley & McKeage, 2015] Bosley, Stacie, and Kim K. McKeage. "Multilevel Marketing Diffusion and the Risk of Pyramid Scheme Activity: The Case of Fortune Hi-Tech Marketing in Montana." American Marketing Association, 2015.
- * [1] Onderzoek van winsten in piramidespel in Amerika
- * [3] Onderzoek met initele investering is 2000 euro
- * [Tyler et al., 2023] Kell, Tyler, et al. "Forsage: Anatomy of a smart-contract pyramid scheme." International Conference on Financial Cryptography and Data Security. Cham: Springer Nature Switzerland, 2023.
  * [Hidajat et al., 2020] Hidajat, Taofik, et al. "Why are people trapped in Ponzi and pyramid schemes?." Journal of Financial Crime 28.1 (2020): 187-203.
-
- * [Bosley & McKeage, 2015] Bosley, Stacie, and Kim K. McKeage. "Multilevel marketing diffusion and the risk of pyramid scheme activity: The case of fortune hi-tech marketing in Montana." Journal of Public Policy & Marketing 34.1 (2015): 84-102.
+ * [Tyler et al., 2023] Kell, Tyler, et al. "Forsage: Anatomy of a smart-contract pyramid scheme." International Conference on Financial Cryptography and Data Security. Cham: Springer Nature Switzerland, 2023.
  * [Wilkins et al, 2012] Wilkins, Anne M., William W. Acuff, and Dana R. Hermanson. "Understanding a ponzi scheme: Victims’ perspectives." Journal of Forensic & Investigative Accounting 4.1 (2012): 1-19.
-
-
-A total of 98% (0.983) of variations in investment in Ponzi and pyramid schemes are
-influenced by optimism, confirmation bias, representativeness bias, herding,
-framing bias and overconfidence, while other variables influence the rest [Hidajat et al., 2020].
-
-Confirmation bias, representativeness bias, framing bias and overconfidence (cognitive
-bias) also proved to influence investment decisions in Ponzi and pyramid schemes [Hidajat et al., 2020].
-
-
