@@ -1,6 +1,12 @@
 # artikel_vrijdenker_piramidespelen
 
-Artikel voor 'De Vrijdenker': Piramidespelen en waarom kritisch denken tekort schiet
+Artikel voor 'De Vrijdenker': De fascinerende wereld van piramidespelen
+
+## Mini samenvatting
+
+Het doel van dit artikel is inzicht te geven in de financiele
+en psychologische werking van Ponzischema's en piramidespelen,
+inclusief wat simpele handvatten om slachtoffers te helpen.
 
 ## Definities
 
@@ -261,3 +267,9 @@ inclusief wat simpele handvatten om slachtoffers te helpen.
  * [Hidajat et al., 2020] Hidajat, Taofik, et al. "Why are people trapped in Ponzi and pyramid schemes?." Journal of Financial Crime 28.1 (2020): 187-203.
  * [Tyler et al., 2023] Kell, Tyler, et al. "Forsage: Anatomy of a smart-contract pyramid scheme." International Conference on Financial Cryptography and Data Security. Cham: Springer Nature Switzerland, 2023.
  * [Wilkins et al, 2012] Wilkins, Anne M., William W. Acuff, and Dana R. Hermanson. "Understanding a ponzi scheme: Victims’ perspectives." Journal of Forensic & Investigative Accounting 4.1 (2012): 1-19.
+
+## Over de auteur
+
+Richèl Bilderbeek (1980) werkt aan de universiteit van Uppsala (Zweden) als
+ondersteuning van wetenschappers, na een PhD en postdoc te 
+hebben gehaald in respectievelijk phylogenetica en immunologie.
