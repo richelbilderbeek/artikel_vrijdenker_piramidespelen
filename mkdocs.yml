@@ -4,7 +4,7 @@ repo_url: https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen
 
 nav:
   - Home: index.md
-  - Pagina's:
+  - Paginas:
     - Artikel: paginas/artikel.md
     - Hoe herken je een pyramidespel: paginas/herkennen.md
 
