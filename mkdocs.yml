@@ -7,6 +7,8 @@ nav:
   - Paginas:
     - Artikel: paginas/artikel.md
     - Hoe herken je een pyramidespel: paginas/herkennen.md
+    - Definities: paginas/definities.md
+    - Over de auteur: paginas/over_de_auteur.md
 
 theme:
   name: material
@@ -15,7 +17,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: assets/logo_color.png
+  logo: assets/r_written.png
 
   features:
     - toc.integrate
@@ -59,5 +61,4 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
 

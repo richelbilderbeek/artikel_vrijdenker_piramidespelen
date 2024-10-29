@@ -3,7 +3,6 @@
 A (Dutch) article for 'De Vrijdenker',
 titled 'De fascinerende wereld van piramidespelen'.
 
-
 ## Files used by continuous integration scripts
 
 <!-- markdownlint-disable MD013 -->
