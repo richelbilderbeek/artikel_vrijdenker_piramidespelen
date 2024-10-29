@@ -1,7 +1,17 @@
 # artikel_vrijdenker_piramidespelen
 
+![Pyramid scheme diagram](docs/assets/pyramid_scheme_diagram.png)
+
+> Pyramid scheme diagram, from [Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
+
 A (Dutch) article for 'De Vrijdenker',
 titled 'De fascinerende wereld van piramidespelen'.
+
+## Image credits
+
+Filename                    |Source
+----------------------------|---------------------------
+`pyramid_scheme_diagram.png`|[Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
 
 ## Files used by continuous integration scripts
 
