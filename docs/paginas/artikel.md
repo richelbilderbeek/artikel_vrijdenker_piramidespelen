@@ -158,7 +158,7 @@ komen boven de 100% uit, onduidelijk is waarom) [Hidajat et al., 2020].
 ## Waarom zitten mensen in een piramidespel?
 
 Meedoen aan een piramidespel is om meerdere redenen aantrekkelijk:
-ten eerste is er is de belofte van financieel gewin en 
+ten eerste is er is de belofte van financieel gewin en
 ten tweede is er een gemeenschap waar iedereen welkom is,
 waar hard werken wordt beloond, waar je vrienden kan maken.
 

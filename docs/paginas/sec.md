@@ -1,6 +1,6 @@
 # SEC paper
 
-> This is a copy of part of 
+> This is a copy of part of
 > [this webpage](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-30).
 > Text is copied on 2024-10-29 and pasted below.
 

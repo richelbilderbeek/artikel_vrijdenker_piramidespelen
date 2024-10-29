@@ -182,7 +182,7 @@ needs those answers. Here are some questions to ask:
   expenses — came from recruiting other distributors and selling them
   inventory or other items to get started?
 - How much time do you spend on the business?
-- How much inventory did you buy from the MLM last year? 
+- How much inventory did you buy from the MLM last year?
   Did you sell all of your inventory?
 
 Remember, you're on a mission to check out a potential business deal that
