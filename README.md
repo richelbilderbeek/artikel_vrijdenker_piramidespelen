@@ -7,6 +7,8 @@
 A (Dutch) article for 'De Vrijdenker',
 titled 'De fascinerende wereld van piramidespelen'.
 
+- [The article as a Word document](artikel.doc)
+
 ## Image credits
 
 Filename                    |Source
