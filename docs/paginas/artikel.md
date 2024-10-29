@@ -84,8 +84,11 @@ Een piramidespel is een combinatie van een Ponzischema en multilevel marketing,
 waarin slachtoffers geld verdienen door nieuwe slachtoffers voor het
 Ponzischema te werven.
 
-Het verhaal van een slachtoffer van een pyramidespel is
+
+Voor een deelnemer van een piramidespel gelden dzelfde
+[JMB: VERBETEREN]
 hetzelfde als van een Ponzi schema,
+XXXXXXXXXXXXXXXXXXX
 maar er is meer: het slachtoffer wordt nu ook gevraagd om
 nieuwe leden te werven. Ook heeft het slachtoffer nu iemand boven zich
 in een hierarchie, vaak met onschuldige namen als 'mentor' of 'coach',
@@ -98,7 +101,7 @@ hetzelfde als van een Ponzi schema,
 maar er is meer:
 er is nu een groep slachtoffers die actief nieuwe slachtoffers werft.
 Deze groep moet gemotiveerd blijven.
-Dit kan gebeuren door bevoordeeld de beste slachtofferwervers
+Dit kan gebeuren door bevoorbeeld de beste slachtofferwervers
 te belonen met exclusieve (en zichtbare!) beloningen en evenementen.
 
 ## Hoe herken je een piramidespel?
@@ -142,14 +145,17 @@ in andere regios of eerdere verschijningsvormen.
 
 ## Waarom gaan mensen bij een piramidespel?
 
+XXXXXXXXXXXXXXXXXXXXXXXXX
 De belangrijkste reden dat mensen bij een piramidespel gaan,
 is wegens 'representativeness bias'
-`[Hidajat et al., 2020]``[Wilkins et al, 2012]`.
-Voor dit vooroordeel is een bekende nodig,
-wiens lidmaatschap als (onjuist) bewijs dient het pyramidespel legitiem is.
+`[Hidajat et al., 2020][Wilkins et al, 2012]`.
 
+Voor dit vooroordeel is een bekende nodig,
+wiens lidmaatschap als (onjuist) bewijs dient het piramidespel legitiem is.
+
+XXXXXXXXXXXXXXXXXXXX
 Bovenstaand vooroordeel is belangrijkste voorspellen
-voor het inleggen van geld in een pyramidespelen.
+voor het inleggen van geld in een piramidespelen.
 Volgens een studie verklaart 'representativeness bias' 47% van de variatie.
 De rest is the verklaren uit
 'confirmation bias' (dwz vooral naar bewijs luisteren
@@ -179,17 +185,17 @@ voor de verdeling van inkomsten over percentage slachtoffers.
 
 > Figuur uit `[Bosley & McKeage, 2015]` die de inkosten (in USD)
 > laat zien per percentage slachtoffers. Merk op dat de inleg voor
-> dit pyramidel 300 USD was en dat geinvesteerde tijd niet is meegenomen
+> dit piramidel 300 USD was en dat geinvesteerde tijd niet is meegenomen
 > in de berekening.
 
 Het percentage van slachtoffers dat winst maakt varieert
-per pyramidespel: een andere studie vond dat 11,8%
+per piramidespel: een andere studie vond dat 11,8%
 van de slachtoffers winst maakt.
 Deze winst is meestal laag: 50% van deze winst kwam
 in de handen kwam van de top 0,1% `[Tyler et al., 2023]`,
 
 De sociale gemeenschap achter een piramidespel is voor sommige interessant:
-hard werken wordt beloont, men begeleid elkaar, men motiveert elkaar,
+hard werken wordt beloond, men begeleid elkaar, men motiveert elkaar,
 men maakt nieuwe vrienden.
 Dit sociale aspect zorgt ervoor dat slachtoffers hun 'bedrijf'
 minder kritisch bekijken, omdat een inzicht dat het 'bedrijf'
@@ -200,7 +206,7 @@ nep is leidt tot verlies van al deze vriendschappen.
 Het heeft net zoveel nut slachtoffers
 te overtuigen met rationele argumenten
 als het geval is bij andere illusies zoals religie.
-Anngeraden wordt vooral te blijven luisteren naar het slachtoffer
+Aangeraden wordt vooral te blijven luisteren naar het slachtoffer
 en een open dialoog te behouden:
 stel open en onbedreigende vragen,
 met de hoop dat het slachtoffer zelf ooit het gewenste inzicht verkrijgt.
@@ -228,6 +234,7 @@ De grootste slachtoffers zijn de mensen die *denken* winst te maken:
 zij zitten vast in een prettig sociaal netwerk van 'mede-investeerders'.
 Dit netwerk voelt de kloof tussen 'binnen' en 'buiten',
 tussen de gelovigen en ongelovigen.
+[JMB: Meer nadruk]
 Het sociale leven (familie en vrienden) buiten het netwerk
 van de slachtoffers komt onder
 de druk te staan.

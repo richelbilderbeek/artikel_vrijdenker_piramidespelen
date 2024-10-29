@@ -1,4 +1,4 @@
-# Hoe een piramidespel to herkennen
+# Hoe een piramidespel te herkennen
 
 Een piramidespel is te herkennen aan een combinatie van eigenschappen.
 Het is altijd een combinatie van meerdere factoren
@@ -8,17 +8,17 @@ Het is altijd een combinatie van meerdere factoren
 
 Eigenschap                                                                                    |Bron(nen)
 ----------------------------------------------------------------------------------------------|----------------------------------------
-Weinig tot geen aantoonbare inkomsten van verkoop naar niet-deelnemers                        | `[SEC]``[FTC]` `[Vander Nat & Keep, 2002]`
-Inkomsten van de deelnemers vooral afhankelijk van recruitering, in plaats van productverkoop | `[SEC]``[FTC]` `[Vander Nat & Keep, 2002]`
-Interne presentaties focussen op het werven van nieuwe leden                                  | `[SEC]``[FTC]` `[Vander Nat & Keep, 2002]`
-Het bedrijf belooft een uitzonderlijk hoge winst in een te korte periode                      | `[SEC]``[FTC]` `[Vander Nat & Keep, 2002]`
-Het verkoopprodukt is onbewezen of oneerlijk geprijsd                                         | `[SEC]``[FTC]` `[Vander Nat & Keep, 2002]`
-Het is verplicht geld in te leggen om mee te mogen doen                                       | `[SEC]``[FTC]` `[Vander Nat & Keep, 2002]`
-De meeste oud-deelnemers verliezen geld                                                       | `[FTC]``[Vander Nat & Keep, 2002]``[Bosley & McKeage, 2015]`
-Geen geschreven informatie over gemaakte (bijv. productie-)kosten                             | `[FTC]``[Vander Nat & Keep, 2002]`
-Er zijn klachten van consumenten uit andere regio's of eerdere rondes/iteraties/golven        | `[FTC]``[Bosley & McKeage, 2015]`
-Er is een hoge doorstroom van oud-deelnemers                                                  | `[Vander Nat & Keep, 2002]``[Bosley & McKeage, 2015]`
-Er is een exponentiele groei in het aantal deelnemers                                         | `[Vander Nat & Keep, 2002]``[Bosley & McKeage, 2015]`
+Weinig tot geen aantoonbare inkomsten van verkoop naar niet-deelnemers                        | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Inkomsten van de deelnemers vooral afhankelijk van recruitering, in plaats van productverkoop | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Interne presentaties focussen op het werven van nieuwe leden                                  | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Het bedrijf belooft een uitzonderlijk hoge winst in een te korte periode                      | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Het verkoopprodukt is onbewezen of oneerlijk geprijsd                                         | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Het is verplicht geld in te leggen om mee te mogen doen                                       | `[SEC][FTC][Vander Nat & Keep, 2002]`
+De meeste oud-deelnemers verliezen geld                                                       | `[FTC][Vander Nat & Keep, 2002][Bosley & McKeage, 2015]`
+Geen geschreven informatie over gemaakte (bijv. productie-)kosten                             | `[FTC][Vander Nat & Keep, 2002]`
+Er zijn klachten van consumenten uit andere regio's of eerdere rondes/iteraties/golven        | `[FTC][Bosley & McKeage, 2015]`
+Er is een hoge doorstroom van oud-deelnemers                                                  | `[Vander Nat & Keep, 2002][Bosley & McKeage, 2015]`
+Er is een exponentiele groei in het aantal deelnemers                                         | `[Vander Nat & Keep, 2002][Bosley & McKeage, 2015]`
 Berichten van gemakkelijk geld of een passief inkomen                                         | `[SEC]`
 Beloningsstructuur is complex                                                                 | `[SEC]`
 Het is verplicht het product te kopen                                                         | `[FTC]`
@@ -37,17 +37,17 @@ Het bedrijf heeft meer deelnemers in economisch zwakkere regio's                
 
 Feature                                                                                                    | Reference(s)
 -----------------------------------------------------------------------------------------------------------|----------------------------------------
-Little/no demonstrated company revenue from retail sales to public (sales to those outside the MLM program)| `[SEC]` `[FTC]` `[Vander Nat & Keep, 2002]`
-Participant income primarily derived from recruitment rather than sales of products                        | `[SEC]` `[FTC]` `[Vander Nat & Keep, 2002]`
-Sales pitch emphasizes recruiting                                                                          | `[SEC]` `[FTC]` `[Vander Nat & Keep, 2002]`
-Excessive earnings claims or promises of high returns in a short time period                               | `[SEC]` `[FTC]` `[Vander Nat & Keep, 2002]`
-Product is unproven and/or unfairly priced                                                                 | `[SEC]` `[FTC]` `[Vander Nat & Keep, 2002]`
-Buy-in required                                                                                            | `[SEC]` `[FTC]` `[Vander Nat & Keep, 2002]`
-Vast majority of past participants lose money                                                              | `[FTC]` `[Vander Nat & Keep, 2002]` `[Bosley & McKeage, 2015]`
-No information on potential expenses (in writing)                                                          | `[FTC]` `[Vander Nat & Keep, 2002]`
-Consumer complaints (from other regions or prior waves)                                                    | `[FTC]` `[Bosley & McKeage, 2015]`
-High turnover of past participants                                                                         | `[Vander Nat & Keep, 2002]` `[Bosley & McKeage, 2015]`
-Exponential growth in participation                                                                        | `[Vander Nat & Keep, 2002]` `[Bosley & McKeage, 2015]`
+Little/no demonstrated company revenue from retail sales to public (sales to those outside the MLM program)| `[SEC][FTC][Vander Nat & Keep, 2002]`
+Participant income primarily derived from recruitment rather than sales of products                        | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Sales pitch emphasizes recruiting                                                                          | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Excessive earnings claims or promises of high returns in a short time period                               | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Product is unproven and/or unfairly priced                                                                 | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Buy-in required                                                                                            | `[SEC][FTC][Vander Nat & Keep, 2002]`
+Vast majority of past participants lose money                                                              | `[FTC][Vander Nat & Keep, 2002][Bosley & McKeage, 2015]`
+No information on potential expenses (in writing)                                                          | `[FTC][Vander Nat & Keep, 2002]`
+Consumer complaints (from other regions or prior waves)                                                    | `[FTC][Bosley & McKeage, 2015]`
+High turnover of past participants                                                                         | `[Vander Nat & Keep, 2002][Bosley & McKeage, 2015]`
+Exponential growth in participation                                                                        | `[Vander Nat & Keep, 2002][Bosley & McKeage, 2015]`
 Messages of easy money or passive income                                                                   | `[SEC]`
 Complex commission structure                                                                               | `[SEC]`
 Required inventory purchases                                                                               | `[FTC]`

@@ -9,6 +9,7 @@ nav:
     - Hoe een piramidespel te herkennen: paginas/herkennen.md
     - Definities: paginas/definities.md
     - Over de auteur: paginas/over_de_auteur.md
+    - Dankwoord: paginas/dankwoord.md
 
 theme:
   name: material
