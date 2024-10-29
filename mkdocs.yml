@@ -1,13 +1,13 @@
-site_name: Intro to UPPMAX Day 1
+site_name: De fascinerende wereld van piramidespelen
 
-repo_url: https://github.com/UPPMAX/uppmax_intro_day_1
+repo_url: https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen
 
 nav:
   - Home: index.md
 
 theme:
   name: material
-  greetings: Welcome to UPPMAX Intro Day 1
+  greetings: Welkom
   font:
     text: Lato
     code: JetBrains Mono
@@ -32,7 +32,7 @@ extra_css:
       
 markdown_extensions:
   - toc:
-      toc_depth: 2
+      toc_depth: 1
       permalink: true
       permalink_title: Anchor link to this section for reference
   - admonition
