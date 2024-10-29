@@ -4,6 +4,8 @@ repo_url: https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen
 
 nav:
   - Home: index.md
+  - Artikel:
+    - Artikel: artikel/artikel.md
 
 theme:
   name: material
@@ -32,7 +34,7 @@ extra_css:
       
 markdown_extensions:
   - toc:
-      toc_depth: 1
+      toc_depth: 2
       permalink: true
       permalink_title: Anchor link to this section for reference
   - admonition
