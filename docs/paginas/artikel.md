@@ -73,6 +73,11 @@ en deelnemers komen vooral uit economisch zwakkere regios
 
 ## Piramidespel
 
+![Logo van het piramidespel Fortune Hi-Tech Marketing](fhtm_logo.png)
+
+> Logo van het piramidespel Fortune Hi-Tech Marketing,
+> van [Wikipedia](https://en.wikipedia.org/wiki/File:Fortune_Hi-Tech_Marketing_-logo.gif)
+
 Een piramidespel is een combinatie van een Ponzischema en multilevel marketing,
 waarin slachtoffers geld verdienen door nieuwe slachtoffers voor het
 Ponzischema te werven.

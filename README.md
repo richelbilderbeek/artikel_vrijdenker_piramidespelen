@@ -11,6 +11,7 @@ titled 'De fascinerende wereld van piramidespelen'.
 
 Filename                    |Source
 ----------------------------|---------------------------
+`fhtm_logo.png`             |[Wikipedia](https://en.wikipedia.org/wiki/File:Fortune_Hi-Tech_Marketing_-logo.gif)
 `pyramid_scheme_diagram.png`|[Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
 
 ## Files used by continuous integration scripts
