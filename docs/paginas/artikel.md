@@ -124,7 +124,7 @@ Er lopen rechtzaken tegen het bedrijf en er
 zijn klachten van slachtoffers over het piramidespel
 in andere regios of eerdere verschijningsvormen.
 
-![](geldstromen_simulatie_2x.png)
+![Simulatie van geldstromen binnen een piramidespel](geldstromen_simulatie_2x.png)
 
 > Simulatie van geldstromen binnen een piramidespel van een slachtoffer,
 > met de tijd (in dagen) op de horizontale as en (beloofde) bedragen
@@ -170,7 +170,7 @@ en dat ongeveer 4% winst maakt [Bosley & McKeage, 2015].
 Zie onderstaande figuur
 voor de verdeling van inkomsten over percentage slachtoffers.
 
-![](bosley_and_mckeage_2015_fig_1.png)
+![Figuur uit Bosley & McKeage, 2015](bosley_and_mckeage_2015_fig_1.png)
 
 > Figuur uit [Bosley & McKeage, 2015] die de inkosten (in USD)
 > laat zien per percentage slachtoffers. Merk op dat de inleg voor
