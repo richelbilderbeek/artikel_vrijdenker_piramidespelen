@@ -62,7 +62,9 @@ Higher participation in economically depressed regions                          
 
 ## Referenties
 
-- `[Bosley & McKeage, 2015]` Bosley, Stacie, and Kim K. McKeage. 
+<!-- markdownlint-disable MD013 -->
+
+- `[Bosley & McKeage, 2015]` Bosley, Stacie, and Kim K. McKeage.
   "MultilevelMarketing Diffusion and the Risk of Pyramid Scheme Activity:
   The Case of Fortune Hi-Tech Marketing in Montana."
   American Marketing Association, 2015.
@@ -70,6 +72,8 @@ Higher participation in economically depressed regions                          
   2021. zie ook [ftc.md](ftc.md)
 - `[SEC]` [Securities and Exchange Commission webpage 'Investor Alert: Beware of Pyramid Schemes Posing as Multi-Level Marketing Programs'](https://www.sec.gov/investor/alerts/ia_pyramid.htm),
   2013. zie ook [sec.md](sec.md)
-- `[Vander Nat & Keep, 2002]` Nat, Peter J. Vander, and William W. Keep. 
+- `[Vander Nat & Keep, 2002]` Nat, Peter J. Vander, and William W. Keep.
   "Marketing fraud: An approach for differentiating multilevel marketing from
   pyramid schemes." Journal of Public Policy & Marketing 21.1 (2002): 139-151.
+
+<!-- markdownlint-enable MD013 -->
