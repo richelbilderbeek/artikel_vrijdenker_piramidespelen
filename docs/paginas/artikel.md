@@ -49,40 +49,27 @@ naar geheime bankrekeningen van de zwendelaar.
 De zwendelaar gaat failliet, kan niet aan de schulden voldoen
 en wordt deze kwijtgescholden.
 
-## Eigenschappen van een Ponzischema
-
-Nu we het algemene verhaal van de zwendelaar kunnen,
-krijgen we inzicht in enkele gedetailleerde eigenschappen
-van deze oplichterij:
-
-* Bedrijf X zal het onmogelijk maken geld direct op te nemen,
-   maar zal met een wachttijd werken
-   Op deze manier kan het juiste moment voor een failliesement worden besloten
-* Bedrijf X kan elke belofte maken, het doel is enkel zoveel mogelijk
-   geld binnen sluizen, nooit om de belofte waar te maken
-* Bedrijf X zal slachtoffers altijd stimuleren hun geld te 'herinvesteren',
-   met soms nog sterkere beloftes
-* Bedrijf X kan elk verhaal verzinnen om geloofwaardig over te komen,
-   bijvoorbeeld het bezit van een AI die investeringen doet op de beurs.
-   Ook kan bedrijf X net doen alsof het handelt in een product of dienst
-
 ## Hoe herken je een Ponzischema?
 
 Een Ponzischema is te herkennen aan een combinatie van eigenschappen.
 Het is altijd een combinatie van meerdere
-factoren; een eigenschap is niet genoeg om een bedrijf een Ponzischema te noemen
-(lijst van [Bosley & McKeage, 2015]):
+factoren, dus één eigenschap is niet genoeg om een bedrijf een Ponzischema te
+noemen. Hier enkele kenmerken van een Ponzischema,
+vertaald van [Bosley & McKeage, 2015].
 
-* Bedrijf X belooft een uitzonderlijk hoge winst in een te korte periode
-* Als bedrijf X zogenaamd in een product handelt,
-   dan zijn de verkoopcijfers geheim, vaag of oncontroleerbaar
-* Als bedrijf X zogenaamd in een product handelt,
-   dan is het product onbewezen en/of oneerlijk geprijst
-* Bedrijf X geeft geen geschreven informatie over gemaakte kosten
-* Het beleid om geld terug te krijgen (bijvoorbeeld als een
-   investering loopt) is vaag
-* Bedrijf X groeit in tijden van een recessie
-* Bedrijf X heeft vooral deelnemers in economisch zwakkere regios
+Een Ponzischema belooft een uitzonderlijk hoge winst in een te korte periode,
+gemakkelijk geld en/of een passief inkomen: beloftes kosten het bedrijf
+namelijk niks (ze worden immers niet waargemaakt) en leveren misschien
+wel meer geld op voor de fraudeur.
+Als het bedrijf in een product handelt (en dat is handig,
+want dat maakt het bedrijf legitiemer)
+dan is dit product vaak onbewezen en/of oneerlijk geprijst.
+Er is geen geschreven informatie over de (productie)kosten
+van dit product en de verkoopcijfers van het product
+zijn geheim, vaag en/of oncontroleerbaar.
+Er is geen duidelijk beleid om geld terug te vragen in geschreven vorm.
+In tijden van een recessie kan een Ponzischema prima groeien
+en deelnemers komen vooral uit economisch zwakkere regios
 
 ## Piramidespel
 
@@ -109,28 +96,28 @@ te belonen met exclusieve (en zichtbare!) beloningen en evenementen.
 
 ## Hoe herken je een piramidespel?
 
-Een piramidespel is te herkennen aan een combinatie van eigenschappen.
-Het is altijd een combinatie van meerdere factoren
-(lijst van [Bosley & McKeage, 2015]):
+Een piramidespel is te herkennen aan een combinatie van eigenschappen,
+waaronder alle eigenschappen van een Ponzischema,
+zoals hierboven beschreven. Deze aanvullende eigenschappen
+zijn ook vertaald van [Bosley & McKeage, 2015].
 
-* De eigenschappen van een Ponzischema (zie hierboven)
-* Een nieuw slachtoffer moet geld inleggen om mee te mogen doen
-* Bedrijf X krijgt vooral inkomsten uit de nieuwe leden,
-   inplaats van de verkoop van een product
-* Interne presentaties focussen op het werven van nieuwe leden
-* De meeste slachtoffers verliezen geld
-* Er zijn klachten van slachtoffers over bedrijf X,
-   vanuit andere regios of eerdere piramidespelen van het bedrijf
-* Er is een hoge doorstrroom in slachtoffers
-* Er zijn berichten vanuit bedrijf over gemakkelijk te verdienen
-   geld en/of een mogelijk passief inkomen
-* Exponentiele groei in het aantal slachtoffers
-* Complexe beloningsstructuren
-* Als bedrijf X zogenaamt een produkt verhandeld:
-   verplichte aankoop van het produkt
-* Verplichte herinvestering om in goed aanzien te blijven
-* Eerdere rechtzaken tegen bedrijf X
-* Een snelle neergang in het aantal slachtoffers
+In een piramidespel moet een nieuwe deelnemer geld inleggen om mee te mogen
+doen. Als er een produkt wordt verkocht, dan is het verplicht dit produkt
+te kopen en/of per termijn meer van dit produkt te moeten kopen.
+Er is weinig/geen bewijs dat het produkt aan niet-deelnemers wordt verkocht,
+omdat een Ponzischema  vooral inkomsten haalt uit de nieuwe leden.
+
+Deelnemers zien interne presentaties die focussen op het werven van nieuwe
+leden (in plaats van bijvoorbeeld produktkennis) en het piramidespel
+heeft een complexe beloningsstructuur.
+
+In het begin van de historie van een piramidespel is er een
+exponentiele groei in het aantal slachtoffers.
+Later, als de meeste deelnemers geld verliezen, is de doorstroom hoog.
+In de slotfase is er een snelle neergang in het aantal deelnemers.
+Er lopen rechtzaken tegen het bedrijf en er
+zijn klachten van slachtoffers over het piramidespel
+in andere regios of eerdere verschijningsvormen.
 
 ![](geldstromen_simulatie_2x.png)
 
@@ -166,10 +153,9 @@ komen boven de 100% uit, onduidelijk is waarom) [Hidajat et al., 2020].
 ## Waarom zitten mensen in een piramidespel?
 
 Meedoen aan een piramidespel is om meerdere redenen aantrekkelijk:
-
-* De belofte van financieel gewin
-* Een gemeenschap waar iedereen welkom is, waar hard werken wordt beloont,
-   waar je vrienden kan maken.
+ten eerste is er is de belofte van financieel gewin en 
+ten tweede is er een gemeenschap waar iedereen welkom is,
+waar hard werken wordt beloond, waar je vrienden kan maken.
 
 De belofte van financieel gewin is aantrekkelijk
 en tot op zekere hoogte waar:
