@@ -1,35 +1,33 @@
-# Hoe herken je een piramidespel?
+# Hoe een piramidespel to herkennen
 
 Een piramidespel is te herkennen aan een combinatie van eigenschappen.
 Het is altijd een combinatie van meerdere factoren 
 (lijst van [Bosley & McKeage, 2015]):
 
- * Bedrijf X belooft een uitzonderlijk hoge winst in een te korte periode
- * Als bedrijf X zogenaamd in een product handelt, 
-   dan zijn de verkoopcijfers geheim, vaag of oncontroleerbaar
- * Als bedrijf X zogenaamd in een product handelt, 
-   dan is het product onbewezen en/of oneerlijk geprijst
- * Bedrijf X geeft geen geschreven informatie over gemaakte kosten
+ * Het bedrijf belooft een uitzonderlijk hoge winst in een te korte periode
+ * Verkoopcijfers van een eventueel product zijn geheim, vaag of oncontroleerbaar
+ * Het eventuele product is onbewezen en/of oneerlijk geprijst
+ * Geen geschreven informatie over gemaakte kosten
  * Het beleid om geld terug te krijgen (bijvoorbeeld als een 
    investering loopt) is vaag
- * Bedrijf X groeit in tijden van een recessie
- * Bedrijf X heeft vooral deelnemers in economisch zwakkere regios
+ * Het bedrijf groeit in tijden van een recessie
+ * Het bedrijf heeft vooral deelnemers in economisch zwakkere regio's
  * Een nieuw slachtoffer moet geld inleggen om mee te mogen doen
- * Bedrijf X krijgt vooral inkomsten uit de nieuwe leden, 
+ * Het bedrijf krijgt vooral inkomsten uit de nieuwe leden, 
    inplaats van de verkoop van een product
  * Interne presentaties focussen op het werven van nieuwe leden
  * De meeste slachtoffers verliezen geld
- * Er zijn klachten van slachtoffers over bedrijf X, 
+ * Er zijn klachten van slachtoffers over het bedrijf, 
    vanuit andere regios of eerdere piramidespelen van het bedrijf
  * Er is een hoge doorstrroom in slachtoffers
  * Er zijn berichten vanuit bedrijf over gemakkelijk te verdienen
    geld en/of een mogelijk passief inkomen
  * Exponentiele groei in het aantal slachtoffers
  * Complexe beloningsstructuren
- * Als bedrijf X zogenaamt een produkt verhandeld:
-   verplichte aankoop van het produkt
+ * Als het bedrijf zogenaamt een produkt verhandeld,
+   dan is aankoop van het produkt verplicht
  * Verplichte herinvestering om in goed aanzien te blijven
- * Eerdere rechtzaken tegen bedrijf X
+ * Er zijn eerdere rechtzaken tegen het bedrijf
  * Een snelle neergang in het aantal slachtoffers
 
 ## Referenties
