@@ -9,6 +9,6 @@ en psychologische werking van Ponzischema's en piramidespelen,
 inclusief wat simpele handvatten om slachtoffers te helpen.
 
 - [Het artikel](paginas/artikel.md)
-- [Definities](definities.md)
-- [Hoe herken je een piramideschema?](herkennen.md)
-- [Over de auteur](over_de_auteur.md)
+- [Definities](paginas/definities.md)
+- [Hoe herken je een piramideschema?](paginas/herkennen.md)
+- [Over de auteur](paginas/over_de_auteur.md)
