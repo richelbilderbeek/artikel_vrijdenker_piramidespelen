@@ -4,6 +4,8 @@ Een piramidespel is te herkennen aan een combinatie van eigenschappen.
 Het is altijd een combinatie van meerdere factoren
 (lijst vertaald van [Bosley & McKeage, 2015], hieronder de originele Engelse omschrijvingen):
 
+<!-- markdownlint-disable MD013 -->
+
 Eigenschap                                                                                    |Bron(nen)
 ----------------------------------------------------------------------------------------------|----------------------------------------
 Weinig tot geen aantoonbare inkomsten van verkoop naar niet-deelnemers                        | [SEC][FTC] [Vander Nat & Keep, 2002]
@@ -27,7 +29,11 @@ Snel verval in het aantal deelnemers                                            
 Het bedrijf groeit in ledenaantal tijdens een economische recessie                            | [Bosley & McKeage, 2015]
 Het bedrijf heeft meer deelnemers in economisch zwakkere regio's                              | [Bosley & McKeage, 2015]
 
+<!-- markdownlint-enable MD013 -->
+
 ## Originele Engelse omschrijvingen
+
+<!-- markdownlint-disable MD013 -->
 
 Feature                                                                                                    | Reference(s)
 -----------------------------------------------------------------------------------------------------------|----------------------------------------
@@ -52,9 +58,18 @@ Rapid decline in participation                                                  
 Growth in participation despite recession                                                                  | [Bosley & McKeage, 2015]
 Higher participation in economically depressed regions                                                     | [Bosley & McKeage, 2015]
 
+<!-- markdownlint-enable MD013 -->
+
 ## Referenties
 
-- [Bosley & McKeage, 2015] Bosley, Stacie, and Kim K. McKeage. "Multilevel Marketing Diffusion and the Risk of Pyramid Scheme Activity: The Case of Fortune Hi-Tech Marketing in Montana." American Marketing Association, 2015.
-- [FTC] [Federaral Trade Commission webpage 'Multi-Level Marketing Businesses and Pyramid Schemes'](https://web.archive.org/web/20220118175341/https://www.consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes), 2021. zie ook [ftc.md](ftc.md)
-- [SEC] [Securities and Exchange Commission webpage 'Investor Alert: Beware of Pyramid Schemes Posing as Multi-Level Marketing Programs'](https://www.sec.gov/investor/alerts/ia_pyramid.htm), 2013. zie ook [sec.md](sec.md)
-- [Vander Nat & Keep, 2002] Nat, Peter J. Vander, and William W. Keep. "Marketing fraud: An approach for differentiating multilevel marketing from pyramid schemes." Journal of Public Policy & Marketing 21.1 (2002): 139-151.
+- [Bosley & McKeage, 2015] Bosley, Stacie, and Kim K. McKeage. 
+  "MultilevelMarketing Diffusion and the Risk of Pyramid Scheme Activity:
+  The Case of Fortune Hi-Tech Marketing in Montana."
+  American Marketing Association, 2015.
+- [FTC] [Federaral Trade Commission webpage 'Multi-Level Marketing Businesses and Pyramid Schemes'](https://web.archive.org/web/20220118175341/https://www.consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes),
+  2021. zie ook [ftc.md](ftc.md)
+- [SEC] [Securities and Exchange Commission webpage 'Investor Alert: Beware of Pyramid Schemes Posing as Multi-Level Marketing Programs'](https://www.sec.gov/investor/alerts/ia_pyramid.htm),
+  2013. zie ook [sec.md](sec.md)
+- [Vander Nat & Keep, 2002] Nat, Peter J. Vander, and William W. Keep. 
+  "Marketing fraud: An approach for differentiating multilevel marketing from
+  pyramid schemes." Journal of Public Policy & Marketing 21.1 (2002): 139-151.
