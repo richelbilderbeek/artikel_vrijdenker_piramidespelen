@@ -1,5 +1,9 @@
 # artikel_vrijdenker_piramidespelen
 
+[![Check links](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_links.yaml)
+[![Check markdown](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_markdown.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_markdown.yaml)
+[![Create website](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/create_website.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/create_website.yaml)
+
 ![Pyramid scheme diagram](docs/assets/pyramid_scheme_diagram.png)
 
 > Pyramid scheme diagram,
