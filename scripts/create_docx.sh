@@ -4,7 +4,7 @@
 #
 # Usage:
 #
-#   ./scripts/create_doc.sh
+#   ./scripts/create_docx.sh
 
 if [[ "$PWD" =~ scripts$ ]]; then
     echo "FATAL ERROR."
@@ -13,7 +13,7 @@ if [[ "$PWD" =~ scripts$ ]]; then
     echo " "
     echo "Tip: like this"
     echo " "
-    echo "  ./scripts/create_doc.sh"
+    echo "  ./scripts/create_docx.sh"
     echo " "
     exit 42
 fi
