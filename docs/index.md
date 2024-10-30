@@ -14,3 +14,4 @@ inclusief wat simpele handvatten om slachtoffers te helpen.
 - [Definities](paginas/definities.md)
 - [Hoe herken je een piramideschema?](paginas/herkennen.md)
 - [Dankwoord](paginas/dankwoord.md)
+- [Kopieerrecht](paginas/kopieerrecht.md)
