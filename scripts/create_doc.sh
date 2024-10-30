@@ -21,5 +21,13 @@ fi
 filename=$(mktemp)
 echo $filename
 
+cd docs/paginas
 
 
+echo "# De fascinerende wereld van piramidespelen" >> $filename
+echo " " >> $filename
+
+cat mini_samenvatting.md >> $filename
+cat artikel.md >> $filename
+cat over_de_auteur.md >> $filename
+pandoc $filename -o ../../artikel.docx
