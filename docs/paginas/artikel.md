@@ -83,13 +83,10 @@ en deelnemers komen vooral uit economisch zwakkere regios
 Een piramidespel is een combinatie van een Ponzischema en multilevel marketing,
 waarin slachtoffers geld verdienen door nieuwe slachtoffers voor het
 Ponzischema te werven.
-
-
-Voor een deelnemer van een piramidespel gelden dzelfde
-[JMB: VERBETEREN]
-hetzelfde als van een Ponzi schema,
-XXXXXXXXXXXXXXXXXXX
-maar er is meer: het slachtoffer wordt nu ook gevraagd om
+Vanuit het oogpunt van een slachtoffer is een piramidespel
+een uitbreiding van een Ponzi schema: alle eigenschappen van een Ponzi
+schema zijn er, maar nu komen er enkele nieuwe gedragingen bij:
+het slachtoffer wordt nu ook gevraagd om
 nieuwe leden te werven. Ook heeft het slachtoffer nu iemand boven zich
 in een hierarchie, vaak met onschuldige namen als 'mentor' of 'coach',
 die het slachtoffer motiveert om nieuwe slachtoffers te werven.
@@ -145,26 +142,28 @@ in andere regios of eerdere verschijningsvormen.
 
 ## Waarom gaan mensen bij een piramidespel?
 
-XXXXXXXXXXXXXXXXXXXXXXXXX
-De belangrijkste reden dat mensen bij een piramidespel gaan,
-is wegens 'representativeness bias'
+Er zijn meerdere vooringenomenheden ('biases') in het
+spel als reden dat mensen bij een piramidespel gaan.
+De belangrijkste daarvan is de vooringenomenheid
+op representativiteit ('representativeness bias').
+De vooringenomenheid is het idee dat als een bekende
+lid is van het piramidespel, dat dit een bewijs zou
+zijn dat het piramidespel legitiem is, de 'als Piet
+er ook bij zit, dan zal het wel goed zijn' redenatie
 `[Hidajat et al., 2020][Wilkins et al, 2012]`.
 
-Voor dit vooroordeel is een bekende nodig,
-wiens lidmaatschap als (onjuist) bewijs dient het piramidespel legitiem is.
-
-XXXXXXXXXXXXXXXXXXXX
-Bovenstaand vooroordeel is belangrijkste voorspellen
-voor het inleggen van geld in een piramidespelen.
-Volgens een studie verklaart 'representativeness bias' 47% van de variatie.
-De rest is the verklaren uit
-'confirmation bias' (dwz vooral naar bewijs luisteren
-die de eigen opvatting bevestigd) (22%),
-zelfoverschatting (15%),
-'framing bias' (dwz een beslissing nemen op basis
-van enkel positieve informatie)
-(11%) en optimisme (9%) (merk op: deze getallen samen
-komen boven de 100% uit, onduidelijk is waarom) `[Hidajat et al., 2020]`.
+Er is onderzoek gedaan om te verklaren hoeveel geld mensen overmaken
+naar een piramidespel. 47% van de variatie hierin is toe te wijzen
+aan deze vooringenomenheid op representativiteit.
+Op de tweede plaats, met 22%,  staat de vooringenomenheid op
+zelfbevestiging ('confirmation bias'): het vooral luisteren naar bewijs 
+dat de eigen opvatting bevestigd.
+15% van de variatie is te verklaren met zelfoverschatting
+en 11% met de vooringenomenheid op afschildering ('framing bias'),
+oftewel het nemen van een beslissing op basis van enkel positieve informatie.
+Als laatste voorspeller, met 9%, staat optimisme
+(merk op: deze getallen samen komen boven de 100% uit, onduidelijk is
+waarom) `[Hidajat et al., 2020]`.
 
 ## Waarom zitten mensen in een piramidespel?
 
@@ -232,12 +231,11 @@ te melden bij de Financiele Opsporingsdienst, `https://www.fiod.nl/`.
 
 De grootste slachtoffers zijn de mensen die *denken* winst te maken:
 zij zitten vast in een prettig sociaal netwerk van 'mede-investeerders'.
-Dit netwerk voelt de kloof tussen 'binnen' en 'buiten',
+Dit sociale netwerk ervaart een kloof tussen 'binnen' en 'buiten',
 tussen de gelovigen en ongelovigen.
-[JMB: Meer nadruk]
-Het sociale leven (familie en vrienden) buiten het netwerk
-van de slachtoffers komt onder
-de druk te staan.
+Dit heeft zijn weerslag op het sociale leven van slachtoffers
+buiten het piramidespel, waardoor de band met familie en vrienden
+onder druk komt te staan.
 
 Ik hoop dat dit artikel u een duidelijke inzicht heeft gegeven in de financiele
 en psychologische werking van Ponzischema's en piramidespelen,
