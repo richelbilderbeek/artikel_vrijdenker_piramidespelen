@@ -4,7 +4,7 @@
 
 > Pyramid scheme diagram, from [Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
 
-A (Dutch) article for 'De Vrijdenker',
+A (Dutch) article for 'De Vrijdenker', the magazine of [De Vrije Gedachte](https://www.devrijegedachte.nl/),
 titled 'De fascinerende wereld van piramidespelen'.
 
 - [Download the article as a .docs file](artikel.docx)
