@@ -2,13 +2,17 @@
 
 ![Pyramid scheme diagram](docs/assets/pyramid_scheme_diagram.png)
 
-> Pyramid scheme diagram, from [Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
+> Pyramid scheme diagram,
+> from [Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
 
-A (Dutch) article for 'De Vrijdenker', the magazine of [De Vrije Gedachte](https://www.devrijegedachte.nl/),
+A (Dutch) article for 'De Vrijdenker', the magazine of
+[De Vrije Gedachte](https://www.devrijegedachte.nl/),
 titled 'De fascinerende wereld van piramidespelen'.
 
-- [View the article](https://richelbilderbeek.github.io/artikel_vrijdenker_piramidespelen/) (screen-friendly)
-- [Download the article as a .docs file](artikel.docx) (printer-friendly)
+- [View the article](https://richelbilderbeek.github.io/artikel_vrijdenker_piramidespelen/)
+  (screen-friendly)
+- [Download the article as a .docs file](artikel.docx)
+  (printer-friendly)
 
 ## Image credits
 

@@ -156,7 +156,7 @@ Er is onderzoek gedaan om te verklaren hoeveel geld mensen overmaken
 naar een piramidespel. 47% van de variatie hierin is toe te wijzen
 aan deze vooringenomenheid op representativiteit.
 Op de tweede plaats, met 22%,  staat de vooringenomenheid op
-zelfbevestiging ('confirmation bias'): het vooral luisteren naar bewijs 
+zelfbevestiging ('confirmation bias'): het vooral luisteren naar bewijs
 dat de eigen opvatting bevestigd.
 15% van de variatie is te verklaren met zelfoverschatting
 en 11% met de vooringenomenheid op afschildering ('framing bias'),
