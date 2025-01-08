@@ -12,6 +12,7 @@
 A (Dutch) article for 'De Vrijdenker', the magazine of
 [De Vrije Gedachte](https://www.devrijegedachte.nl/),
 titled 'De fascinerende wereld van piramidespelen'.
+It has been published in 'De Vrijdenker' number 10 of 2024.
 
 - [View the article](https://richelbilderbeek.github.io/artikel_vrijdenker_piramidespelen/)
   (screen-friendly)
