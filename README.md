@@ -3,6 +3,7 @@
 [![Check links](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_links.yaml)
 [![Check markdown](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_markdown.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/check_markdown.yaml)
 [![Create website](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/create_website.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen/actions/workflows/create_website.yaml)
+[![DOI](https://zenodo.org/badge/692725778.svg)](https://doi.org/10.5281/zenodo.14614772)
 
 ![Pyramid scheme diagram](docs/assets/pyramid_scheme_diagram.png)
 

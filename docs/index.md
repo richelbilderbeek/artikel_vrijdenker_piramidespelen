@@ -1,5 +1,7 @@
 # De fascinerende wereld van piramidespelen
 
+[![DOI](https://zenodo.org/badge/692725778.svg)](https://doi.org/10.5281/zenodo.14614772)
+
 ![Pyramid scheme diagram](assets/pyramid_scheme_diagram.png)
 
 > Piramide schema, beeld van [Wikipedia](https://commons.wikimedia.org/wiki/File:Pyramid_scheme_diagram.svg)
