@@ -17,5 +17,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt natsort
 
-      - name: Render HTML
-        run: mkdocs gh-deploy --force
+      # Not anymore :-)
+      #- name: Render HTML
+      #  run: mkdocs gh-deploy --force
