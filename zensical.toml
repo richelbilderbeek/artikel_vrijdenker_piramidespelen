@@ -1,0 +1,21 @@
+[project]
+
+site_name = "De fascinerende wereld van piramidespelen"
+site_url = "https://richelbilderbeek.github.io/artikel_vrijdenker_piramidespelen/"
+repo_url = "https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespelen"
+
+
+
+
+nav = [
+  {"Inhoudsopgave" = [
+    "paginas/artikel.md",
+    "paginas/herkennen.md",
+    "paginas/mini_samenvatting.md",
+    "paginas/definities.md",
+    "paginas/over_de_auteur.md",
+    "paginas/dankwoord.md",
+    "paginas/kopieerrecht.md"
+  ]}
+]
+
