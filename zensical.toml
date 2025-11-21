@@ -8,14 +8,12 @@ repo_url = "https://github.com/richelbilderbeek/artikel_vrijdenker_piramidespele
 
 
 nav = [
-  {"Inhoudsopgave" = [
-    "paginas/artikel.md",
-    "paginas/herkennen.md",
-    "paginas/mini_samenvatting.md",
-    "paginas/definities.md",
-    "paginas/over_de_auteur.md",
-    "paginas/dankwoord.md",
-    "paginas/kopieerrecht.md"
-  ]}
+  "paginas/artikel.md",
+  "paginas/herkennen.md",
+  "paginas/mini_samenvatting.md",
+  "paginas/definities.md",
+  "paginas/over_de_auteur.md",
+  "paginas/dankwoord.md",
+  "paginas/kopieerrecht.md"
 ]
 
